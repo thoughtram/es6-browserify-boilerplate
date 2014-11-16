@@ -1,0 +1,10 @@
+{
+  "traceur": {
+    "modules": "commonjs",
+    "sourceMap": true,
+    "types": true,
+    "typeAssertions": true,
+    "typeAssertionModule": "assert",
+    "annotations": true
+  }
+}
