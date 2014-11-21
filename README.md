@@ -1,6 +1,6 @@
 ## ES6 Browserify Boilerplate
 
-This is an boilerplate repo to make it easy to experiment with [ES6]. It also includes some additional features, such as annotations and run-time type checks. It is configured to transpile ES6 module syntax to CommonJS syntax and then bundle modules with browserify. It's inspired by [angular-es6-boilerplate](https://github.com/davidjnelson/angular-es6-boilerplate)
+This is an boilerplate repo to make it easy to experiment with [ES6]. It also includes some additional features, such as annotations and run-time type checks. It's inspired by [angular-es6-boilerplate](https://github.com/davidjnelson/angular-es6-boilerplate) but transpiles modules to CommonJS syntax instead and bundles files with [Browserify](http://browserify.org/)
 
 
 ### Initial setup
